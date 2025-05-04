@@ -1,6 +1,6 @@
  I'm Rishik Reddy! 👋
 
- HI ![Hi there, I'm Rishik Reddy! 👋]( https://i.postimg.cc/zGYd8v74/typewriter-1.gif)
+ HI ![Hi there, I'm Rishik Reddy! 👋](https://i.postimg.cc/ZnRrTtv9/typewriter-2.gif)
 
 
 
