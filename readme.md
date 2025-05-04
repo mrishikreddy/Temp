@@ -42,27 +42,6 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
 
 ---
 
-
-## 📜 Certifications
-
-- IBM AI Engineering Specialization  
-- Google Cybersecurity Specialization  
-- AWS Academy Graduate – AWS Cloud Foundations  
-- Cisco JavaScript Essentials 1 & 2  
-- Python and Django for Beginners  
-- Java for Beginners  
-
----
-
-## 📇 Links
-
-- **📧 Email:** malerishikreddy@gmail.com  
-- **📱 Phone:** +91 8186949881  
-- **🔗 LinkedIn:** [linkedin.com/in/rishikreddym](https://www.linkedin.com/in/rishikreddym/)  
-- **🌐 Portfolio:** [rishik.tech](https://rishik.tech)  
-- **🧠 LeetCode:** [leetcode.com/u/Rishik_Reddy](https://leetcode.com/u/Rishik_Reddy)
-
----
 ## 📇 Links
 
 <p align="center">
