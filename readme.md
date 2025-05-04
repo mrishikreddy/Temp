@@ -67,31 +67,25 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
 
 <p align="center">
   <span>
-    <a href="mailto:malerishikreddy@gmail.com" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="mailto:malerishikreddy@gmail.com">
       <strong>📧 Email</strong>
     </a>
   </span>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <span>
-    <a href="tel:+918186949881" target="_blank" style="text-decoration: none; color: inherit;">
-      <strong>📱 Phone</strong>
-    </a>
-  </span>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <span>
-    <a href="https://www.linkedin.com/in/rishikreddym/" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://www.linkedin.com/in/rishikreddym/">
       <strong>🔗 LinkedIn</strong>
     </a>
   </span>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <span>
-    <a href="https://rishik.tech" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://rishik.tech">
       <strong>🌐 Portfolio</strong>
     </a>
   </span>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <span>
-    <a href="https://leetcode.com/u/Rishik_Reddy" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://leetcode.com/u/Rishik_Reddy/">
       <strong>🧠 LeetCode</strong>
     </a>
   </span>
