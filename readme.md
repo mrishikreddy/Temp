@@ -42,7 +42,7 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
 
 ---
 
-## 📇 Links
+## 📇 Quick Links
 
 <p align="center">
   <span>
@@ -56,6 +56,12 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
       <strong>🔗 LinkedIn</strong>
     </a>
   </span>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <span>
+    <a href="https://drive.google.com/file/d/1LfjyjA3m7D2NXzGLc47e5sz26REtSYJ9/view">
+      <strong>📄 Resume</strong>
+    </a>
+  </span>
 
   <span>
     <a href="https://rishik.tech">
