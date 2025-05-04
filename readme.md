@@ -3,7 +3,7 @@
  HI ![Hi there, I'm Rishik Reddy! 👋](https://i.postimg.cc/ZnRrTtv9/typewriter-2.gif)
 
 
-
+HI ![Hi there, I'm Rishik Reddy! 👋](https://i.postimg.cc/ZnRrTtv9/typewriter-2.gif)
 
 
 ## 👋 About Me
