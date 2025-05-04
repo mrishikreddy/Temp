@@ -1,4 +1,4 @@
-![Hi there, I'm Rishik Reddy! 👋](https://i.postimg.cc/ZnRrTtv9/typewriter-2.gif)
+![Hi there, I'm Rishik Reddy! 👋](https://i.postimg.cc/SsW9L6HG/typewriter-3.gif)
 
 
 
