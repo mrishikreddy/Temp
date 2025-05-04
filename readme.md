@@ -40,9 +40,6 @@ A C-based academic planning utility for students to monitor attendance and estim
 Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses decision-making algorithms to select optimal moves. The game offers interactive, turn-based gameplay by integrating user inputs with strategic AI responses. Conditional logic and move evaluation techniques were implemented to enhance the AI’s performance, making the game both challenging and engaging.
 
 
-### <a href="https://rtsrucc-demo-web.vercel.app/" target="_blank">SRU Coding Club Website</a>
-A full-stack web platform for the official coding club of SR University, built using Next.js, React, and Firebase. This platform supports authentication, a leaderboard, AI chatbot integration, and Firestore optimization. It onboarded 500+ users within the first week and uses localStorage caching to reduce Firestore reads by ~80%. I also built **Ciao**, an AI chatbot (powered by Gemini 1.5 Flash) that authenticates college users and answers 3000+ queries daily.
-
 
 ---
 
