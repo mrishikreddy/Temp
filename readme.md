@@ -30,9 +30,6 @@ A personal portfolio showcasing my skills and projects, developed using Next.js 
 ### [Paradise Resort Web App](https://mrishikreddy.github.io/rishik.tech.projects/webApp)
 A modern and aesthetic static web application developed for Paradise Resorts using Next.js, HTML, and CSS. It features individual pages for rooms, events, and customer support, providing visitors with an immersive resort booking experience. Achieved a 20% increase in visitor engagement and positive user feedback on design responsiveness.
 
-### [Handwritten Digit Recognition](https://github.com/mrishikreddy/Projects/blob/main/Image_Recognition.ipynb)  
-Built using a CNN model in TensorFlow/Keras, this Python-based AI tool classifies digits from the MNIST dataset with a test accuracy of **98.7%**. It showcases strong fundamentals in deep learning and model tuning using Adam optimizer.
-
 ### [Scholar’s Companion](https://github.com/mrishikreddy/Projects/blob/main/scholars%20companion.c)  
 A C-based academic planning utility for students to monitor attendance and estimate required exam marks. It includes subject-wise attendance tracking (to maintain ≥75% attendance) and predictive analytics for CGPA goals. This tool demonstrates algorithmic problem-solving in real-world academic scenarios.
 
@@ -60,7 +57,7 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
 ## 📇 Contact
 
 - **📧 Email:** malerishikreddy@gmail.com  
-- **📱 Phone:** +91 8186949881  
+- **📱 Phone:** [+91 8186949881](tel:+918186949881")  
 - **🔗 LinkedIn:** [linkedin.com/in/rishikreddym](https://linkedin.com/in/rishikreddym)  
 - **💻 GitHub:** [github.com/MRishikReddy](https://github.com/MRishikReddy)  
 - **🌐 Portfolio:** [rishik.tech](https://rishik.tech)  
