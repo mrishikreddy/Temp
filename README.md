@@ -1,95 +1,87 @@
-<!-- Banner / Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00FF00&center=true&vCenter=true&width=500&lines=Hello+%F0%9F%91%8B,+I'm+Rishik+Reddy" alt="Typing SVG"/>
-
-  <!-- Social Icons (update URLs behind the scenes) -->
-  <p align="center">
-    <a href="[LINKEDIN_URL]" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn" />
-    </a>
-    <a href="[GITHUB_URL]" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-Profile-gray?logo=github" alt="GitHub" />
-    </a>
-    <a href="[PORTFOLIO_URL]" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Visit-darkgreen?logo=about.me" alt="Portfolio" />
-    </a>
-    <a href="[LEETCODE_URL]" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-Solutions-yellow?logo=leetcode" alt="LeetCode" />
-    </a>
-  </p>
-</p>
+# Hi there, I'm Rishik Reddy! 👋
 
 ---
 
-### 💬 Slogan
-> “Building scalable web apps that bridge innovation and efficiency.”
+## 🚀 About Me
 
----
+I'm a passionate **Software Developer** with a strong foundation in **AI, Web Development, and Cloud Computing**.  
+Currently pursuing a **Bachelor’s degree in Computer Science (CGPA: 9.4)** at **SR University**, I love building intelligent systems and full-stack applications that solve real-world problems.
 
-## 👨‍💻 About Me
-- 🔭 I’m currently pursuing a B.Tech in Computer Science at SR University (CGPA: 9.4).  
-- 🌱 I’m exploring Generative AI, IoT, and optimization algorithms.  
-- 👯 I’m looking to collaborate on open-source Next.js and ML/AI projects.  
-- 📫 How to reach me: malerishikreddy@gmail.com  
+💡 I have a deep interest in **Artificial Intelligence, Machine Learning, and Deep Learning**—constantly experimenting with Neural Networks and Computer Vision.  
+When I'm not coding, I explore **Cloud Computing** and **Backend Development**, optimizing systems for efficiency and scalability.
+
+⚡ With expertise in **C, Python, Java, JavaScript, and SQL**, I enjoy crafting clean, efficient, and scalable solutions.  
+My projects range from **AI-powered applications** to **dynamic web platforms** that enhance user experiences.
+
+💬 Let's connect and build something amazing together!
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages:**  
-<p>
-  <img src="https://img.shields.io/badge/C-555555?logo=c" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql" alt="SQL" />
-</p>
 
-**Frameworks & Libraries:**  
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express" alt="Express" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask" alt="Flask" />
-  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras" alt="Keras" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow" alt="TensorFlow" />
-</p>
+### 💻 Languages  
+`C` | `Python` | `Java` | `JavaScript` | `SQL` | `HTML` | `CSS`
 
-**Databases & Cloud:**  
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firestore-FADA63?logo=google-cloud" alt="Firestore" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure" alt="Azure" />
-</p>
+### 🏗️ Frameworks & Libraries  
+`Next.js` | `React.js` | `Redux` | `Node.js` | `Express.js` | `Django` | `TensorFlow` | `Keras` | `OpenCV`
+
+### 💾 Databases & Cloud  
+`MySQL` | `MongoDB` | `AWS` | `Firebase` | `Firestore`
+
+### ⚙️ Developer Tools  
+`Git` | `VS Code` | `PyCharm` | `Eclipse` | `Postman` | `Google Colab`
+
+### 📚 Core CS Subjects  
+`Data Structures` | `AI & Machine Learning` | `Computer Networks` | `Operating Systems`
 
 ---
 
 ## 🌟 Featured Projects
-| Project | Description | Link |
-| ------- | ----------- | ---- |
-| **SRU Coding Club Website** | Scalable Next.js site with Firebase auth and real-time features. | 🔗 [Repo](#) |
-| **Portfolio Website** | Dark/light mode toggle, AI chatbot (Gemini 1.5 Flash), 1,500+ daily interactions. | 🔗 [Repo](#) |
-| **Resort Web App** | Static Next.js app with responsive design and Maldives theme. | 🔗 [Repo](#) |
-| **Digit Recognition** | CNN on MNIST achieving 98.67% accuracy using Keras. | 🔗 [Repo](#) |
+
+### 🔹 [Web Application for a Resort](#) | HTML | CSS | JavaScript | Next.js
+Developed a **Maldives-inspired** static web app showcasing 10+ room types, 8 activities, and 3 special events.  
+🚀 Boosted user engagement by **20%** through responsive design and **15% positive feedback** on aesthetics.
 
 ---
 
-## 🎓 Certifications
-- ![IBM AI Engineering](https://img.shields.io/badge/IBM-AI%20Engineering-orange?logo=ibm)  
-- ![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?logo=google)  
-- ![AWS Academy Grad](https://img.shields.io/badge/AWS-Cloud%20Foundations-yellow?logo=amazon-aws)  
-- ![Cisco JavaScript](https://img.shields.io/badge/Cisco-JS%20Essentials-red?logo=cisco)  
-- ![Python & Django](https://img.shields.io/badge/Python-Django-success?logo=python)  
+### 🔹 [Handwritten Digit Recognition](#) | Python | Deep Learning | CNN
+Built an AI system that recognizes handwritten digits using CNNs trained on the MNIST dataset.  
+✅ Achieved **98.67% accuracy** with a well-optimized architecture using ReLU and pooling layers.
 
 ---
 
-## 📫 Let’s Connect
-<p align="center">
-  <a href="[LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" /></a>
-  <a href="[TWITTER_URL]"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter" alt="Twitter" /></a>
-  <a href="[MEDIUM_URL]"><img src="https://img.shields.io/badge/Medium-Read-black?logo=medium" alt="Medium" /></a>
-  <a href="mailto:malerishikreddy@gmail.com"><img src="https://img.shields.io/badge/Email-Send-red?logo=gmail" alt="Email" /></a>
-</p>
+### 🔹 [Scholar’s Companion](#) | C | Data Structures | Algorithms
+An educational tool to **track attendance** and **calculate required scores** for academic success.  
+📈 Designed a prediction algorithm to determine minimum scores needed to meet semester targets.
+
+---
+
+### 🔹 [Restaurant Order Management System](#) | C | Linked Lists
+Built a restaurant system handling 10+ operations using **doubly linked lists**.  
+⚡ Improved data retrieval speed by **30%**, reducing manual tasks by **40%**.
+
+---
+
+## 🏆 Certifications
+
+- 🧠 IBM AI Engineering Specialization  
+- 🔐 Google Cybersecurity Specialization  
+- ☁️ AWS Academy Graduate – AWS Cloud Foundations  
+- 🧮 Cisco JavaScript Essentials 1 & 2  
+- 🐍 Python & Django for Beginners  
+- ☕ Java for Beginners  
+
+---
+
+## 🌍 Let's Connect!
+
+📧 **Email**: malerishikreddy@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/rishikreddym/](https://linkedin.com/in/rishikreddym/)  
+💻 **GitHub**: [github.com/mrishikreddy](https://github.com/mrishikreddy)  
+🌐 **Portfolio**: [rishik.tech](https://rishik.tech)  
+
+---
+
+> 💡 “**Technology is best when it brings people together.**”  
+Let’s build something incredible! 💙
+
