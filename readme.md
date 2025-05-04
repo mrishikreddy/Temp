@@ -67,4 +67,30 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
 - **🧠 LeetCode:** [leetcode.com/u/Rishik_Reddy](https://leetcode.com/u/Rishik_Reddy)
 
 ---
+## 📇 Contact
+
+<!-- Add this in the <head> to include Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<!-- Contact Icons Row -->
+<div style="display: flex; gap: 20px; justify-content: center; align-items: center; margin-top: 20px;">
+  <a href="mailto:malerishikreddy@gmail.com" target="_blank" title="Email">
+    <i class="fas fa-envelope fa-2x"></i>
+  </a>
+  <a href="tel:+918186949881" target="_blank" title="Phone">
+    <i class="fas fa-phone fa-2x"></i>
+  </a>
+  <a href="https://linkedin.com/in/rishikreddym" target="_blank" title="LinkedIn">
+    <i class="fab fa-linkedin fa-2x"></i>
+  </a>
+  <a href="https://github.com/MRishikReddy" target="_blank" title="GitHub">
+    <i class="fab fa-github fa-2x"></i>
+  </a>
+  <a href="https://rishik.tech" target="_blank" title="Portfolio">
+    <i class="fas fa-globe fa-2x"></i>
+  </a>
+  <a href="https://leetcode.com/u/Rishik_Reddy" target="_blank" title="LeetCode">
+    <i class="fas fa-code fa-2x"></i>
+  </a>
+</div>
 
