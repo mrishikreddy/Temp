@@ -7,15 +7,6 @@ I'm **Rishik Reddy**, a passionate software developer and 3rd-year B.Tech CSE st
 
 ---
 
-## 🎓 Education
-
-**Bachelor of Technology (B.Tech)**  
-Computer Science & Engineering  
-**SR University, Warangal**  
-2022 – Present (CGPA: 9.4)
-
----
-
 ## 🛠 Skills
 
 - **Languages:** C, Python, Java, JavaScript, SQL, HTML, CSS 
