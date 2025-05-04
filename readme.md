@@ -66,7 +66,8 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
 ## 📇 Links
 
 <p align="center">
-  <span><strong>📧 Email:</strong> malerishikreddy@gmail.com</span>&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><a href="malerishikreddy@gmail.com" target="_blank">
+   <strong>📧 Email:</strong></a></span>&nbsp;&nbsp;&nbsp;&nbsp;
   <span><strong>📱 Phone:</strong> +91 8186949881</span>&nbsp;&nbsp;&nbsp;&nbsp;
   <span><strong>🔗 LinkedIn:</strong> linkedin.com/in/rishikreddym</span>&nbsp;&nbsp;&nbsp;&nbsp;
   <span><strong>🌐 Portfolio:</strong> rishik.tech</span>&nbsp;&nbsp;&nbsp;&nbsp;
