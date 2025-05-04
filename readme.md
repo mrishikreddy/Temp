@@ -1,5 +1,5 @@
 ![Hi there, I'm Rishik Reddy! 👋](https://i.postimg.cc/6QmHnqW6/typewriter.gif)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&width=435&lines=Full-Stack+Developer+%7C+AI+Enthusiast+%7C+Cloud+Explorer)
+
 
 
 ## 👋 About Me
