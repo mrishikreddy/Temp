@@ -73,6 +73,7 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
   <a href="mailto:malerishikreddy@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/>
   </a>
+</t>
   <a href="tel:+918186949881" target="_blank">
     <img src="https://img.icons8.com/color/48/phone.png" alt="Phone"/>
   </a>
