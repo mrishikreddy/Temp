@@ -1,80 +1,80 @@
-# Hi there, I'm Rishik Reddy! 👋  
+#  My Projects
 
-
-
-## 🚀 About Me
-I'm **Rishik Reddy**, a passionate software developer and 3rd-year B.Tech CSE student at SR University, Warangal (CGPA: 9.4). My work spans full-stack development, artificial intelligence, and cloud computing. I specialize in creating performance-driven web applications and AI-powered solutions with a strong foundation in computer science fundamentals. Currently, I serve as the **Management Head of the SR University Coding Club**, where I lead impactful projects and initiatives.
+Welcome to my GitHub portfolio! This is a comprehensive collection of projects I've built across various domains—ranging from web development and AI/ML to C-based system programs. Each one reflects a different aspect of my learning journey and technical creativity.
 
 ---
 
-## 🛠 Skills
+### Projects
 
-- **Languages:** C, Python, Java, JavaScript, SQL, HTML, CSS 
-- **Frameworks & Libraries:** Node.js, Express.js, Next.js, Django, Flask, React Native
-- **Libraries:** React.js, Redux, Keras, OpenCV, TensorFlow
-- **Databases:** MySQL, MongoDB, Firestore
-- **Cloud:** AWS, Azure, Firebase  
-- **Developer Tools:** Git, VS Code, PyCharm, Eclipse, Google Colab, Postman 
-- **Foundational Skills:** Data Structures, Artificial Intelligence, Computer Networks, Operating Systems  
+
+1. [SRU Coding Club Website](https://github.com/mrishikreddy/SRU-Coding-Club-Website)  
+   A scalable full-stack site for SRU's coding club using Next.js and Firebase, featuring real-time authentication, leaderboard, chatbot, and admin panels optimized for 10K+ users.
+
+2. [Web Application Paradise Resorts](#)  
+   A fully responsive static web app showcasing room types, events, and support for a luxury resort. Inspired by a Maldives theme, the design optimization led to a smoother UX and improved engagement.
+   
+3. [Portfolio Website](https://rishik.tech)  
+  A personal portfolio website showcasing my skills, projects, and professional achievements. The design focuses on a sleek, modern user experience with a dark theme and easy navigation, highlighting my expertise in web development, AI, and system programming.
+
+4. [AI Chatbot](#)  
+   Designed to simulate human-like conversations, this chatbot utilizes natural language processing techniques and context awareness to handle real-time queries with meaningful responses.
+
+5. [Mail Sender](#)  
+   Built using Node.js and Nodemailer, this project offers an efficient way to automate the process of sending emails, whether it's for newsletters, contact forms, or transactional messages.
+
+6. [ProblemBox](#)  
+   A visually modern platform allowing users to submit anonymous feedback or issues. It includes a responsive UI with glassmorphism design and real-time email notifications for each submission.
+
+
+7. [Customer Segmentation and Service Prediction](#)  
+   Data science project that uses clustering algorithms (like K-Means) to segment customers based on behavioral data, followed by classification models to predict what services or products they're likely to need. Great for businesses looking to enhance customer personalization.
+8. [Image classifier.ipynb](#)  
+   A deep learning notebook that classifies input images into predefined categories using a trained Convolutional Neural Network. It includes data augmentation and evaluation metrics.
+
+9. [Image describer.ipynb](#)  
+   A deep learning model combining CNN and LSTM architectures to generate natural language descriptions for input images. It demonstrates the integration of computer vision with sequence modeling.
+
+10. [Image_Recognition.ipynb](#)  
+   A Jupyter Notebook project implementing a Convolutional Neural Network (CNN) for classifying images from various categories. It includes preprocessing, training, evaluation, and accuracy visualization.
+
+11. [Predicting Optimal Drug Prescription Using ML](#)  
+    This machine learning project leverages classification techniques to suggest the most suitable drug prescription based on various patient attributes like age, blood pressure, and cholesterol levels. It's a healthcare-related predictive modeling application.
+
+12. [Prediction_of_CO2_emissions.ipynb](#)  
+   A regression-based project aimed at predicting CO2 emissions of vehicles using features like engine size, fuel type, and transmission. It showcases data visualization, feature engineering, and model evaluation.
+
+13. [Restaurant order management system.c](#)
+    Console-based restaurant ordering system written in C. It uses linked lists to manage menu items, track orders, and compute bills. A great example of how data structures can simulate real-world services.
+
+14. [Student management system.c](#)  
+     A complete CLI student database system in C, enabling users to add, delete, search, and update student records. The program demonstrates structured data storage and dynamic memory handling.
+    
+15. [Tic Tac Toe.py](#)  
+    A clean, responsive website that brings the classic Tic Tac Toe game to the browser. The user plays against a smart AI in a dynamic and interactive layout optimized for all screen sizes.
+
+16. [Scholars Companion.c](#)  
+    A C program built to support students academically. It includes modules like GPA calculation, academic planning, and shortcut links to educational resources. Designed as a multipurpose command-line companion for students.
+
+17. [Smart Vehicle Parking System](#)  
+  An IoT-based system that scans vehicle number plates, assigns parking slots, calculates parking fees, and updates statuses in real-time via a Next.js dashboard, with data stored in Firebase.
+
+18. [Attendance calculator](#)  
+  This project is an attendance calculator that estimates the number of additional classes a student must attend in each subject to reach 75% attendance. It uses user-input percentages and simulates class schedules based on the selected date
+
+19. [Custom Harris Hawnks Optimizer](https://github.com/mrishikreddy/NNFL/blob/main/NNFL_Project_HHO.ipynb)  
+  A project focused on optimizing neural networks with the Harris Hawks Optimizer (HHO) and a custom version, achieving high accuracy improvements.
+
+20. [Algoroot Full-Stack Web Application](#)  
+   A real-time website for a company featuring sign-in, sign-out, and password recovery functionalities. Users can view their details in a dashboard, and the site includes pages like Navigation, About, Services Products, Partner, Career, Contact, and Portfolio, with a profile icon displaying logged-in user information.
+
+ 
+
+
 
 ---
 
-## 💻 Projects
+📌 These projects cover a variety of tech stacks, domains, and real-world use cases. From intelligent interfaces to backend systems and machine learning models, each repository has its own story and learning behind it.
 
-### [SRU Coding Club Website](https://rtsrucc-demo-web.vercel.app/)
-A full-stack web platform for the official coding club of SR University, built using Next.js, React, and Firebase. This platform supports authentication, a leaderboard, AI chatbot integration, and Firestore optimization. It onboarded 500+ users within the first week and uses localStorage caching to reduce Firestore reads by ~80%. I also built **Ciao**, an AI chatbot (powered by Gemini 1.5 Flash) that authenticates college users and answers 3000+ queries daily.
-
-### [Portfolio Website – rishik.tech](https://www.rishik.tech/)
-A personal portfolio showcasing my skills and projects, developed using Next.js and hosted on a custom domain. It features a dynamic, real-time contact form and a custom-built AI chatbot assistant powered by Google Gemini API. The site demonstrates advanced full-stack practices and real-world AI integration.
-
-### [Paradise Resort Web App](https://mrishikreddy.github.io/rishik.tech.projects/webApp)
-A modern and aesthetic static web application developed for Paradise Resorts using Next.js, HTML, and CSS. It features individual pages for rooms, events, and customer support, providing visitors with an immersive resort booking experience. Achieved a 20% increase in visitor engagement and positive user feedback on design responsiveness.
-
-### [Scholar’s Companion](https://github.com/mrishikreddy/Projects/blob/main/scholars%20companion.c)  
-A C-based academic planning utility for students to monitor attendance and estimate required exam marks. It includes subject-wise attendance tracking (to maintain ≥75% attendance) and predictive analytics for CGPA goals. This tool demonstrates algorithmic problem-solving in real-world academic scenarios.
-
-### [Tic Tac Toe AI](https://mrishikreddy.github.io/rishik.tech.projects/ticTacToe)
-Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses decision-making algorithms to select optimal moves. The game offers interactive, turn-based gameplay by integrating user inputs with strategic AI responses. Conditional logic and move evaluation techniques were implemented to enhance the AI’s performance, making the game both challenging and engaging.
-
-### [View 20+ Projects](https://github.com/mrishikreddy/Projects/tree/main)
-
-
+🔗 For more about me, check out [rishik.tech](https://rishik.tech) or [LinkedIn](https://www.linkedin.com/in/rishikreddym/).
 
 ---
-
-## 📇 Quick Links
-
-<p align="center">
-  <span>
-    <a href="mailto:malerishikreddy@gmail.com">
-      <strong>📧 Email</strong>
-    </a>
-  </span>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <span>
-    <a href="https://www.linkedin.com/in/rishikreddym/">
-      <strong>🔗 LinkedIn</strong>
-    </a>
-  </span>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <span>
-    <a href="https://drive.google.com/file/d/1LfjyjA3m7D2NXzGLc47e5sz26REtSYJ9/view">
-      <strong>📄 Resume</strong>
-    </a>
-  </span>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <span>
-    <a href="https://rishik.tech">
-      <strong>🌐 Portfolio</strong>
-    </a>
-  </span>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <span>
-    <a href="https://leetcode.com/u/Rishik_Reddy/">
-      <strong>🧠 LeetCode</strong>
-    </a>
-  </span>
-</p>
-
-
-
